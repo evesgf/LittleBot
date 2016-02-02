@@ -1,0 +1,10 @@
+E:\C#Learn\LittleBot\LittleBot\bin\Debug\LittleBot.exe.config
+E:\C#Learn\LittleBot\LittleBot\obj\Debug\LittleBot.csproj.ResolveComReference.cache
+E:\C#Learn\LittleBot\LittleBot\bin\Debug\LittleBot.exe
+E:\C#Learn\LittleBot\LittleBot\bin\Debug\LittleBot.pdb
+E:\C#Learn\LittleBot\LittleBot\bin\Debug\HtmlAgilityPack.dll
+E:\C#Learn\LittleBot\LittleBot\bin\Debug\HtmlAgilityPack.pdb
+E:\C#Learn\LittleBot\LittleBot\bin\Debug\HtmlAgilityPack.xml
+E:\C#Learn\LittleBot\LittleBot\obj\Debug\LittleBot.csprojResolveAssemblyReference.cache
+E:\C#Learn\LittleBot\LittleBot\obj\Debug\LittleBot.exe
+E:\C#Learn\LittleBot\LittleBot\obj\Debug\LittleBot.pdb
