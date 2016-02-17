@@ -18,3 +18,5 @@ D:\PEV\LittleBot\DEV\LittleBot\LittleBot\bin\Debug\HtmlAgilityPack.dll
 D:\PEV\LittleBot\DEV\LittleBot\LittleBot\bin\Debug\HtmlAgilityPack.pdb
 D:\PEV\LittleBot\DEV\LittleBot\LittleBot\bin\Debug\HtmlAgilityPack.xml
 D:\PEV\LittleBot\DEV\LittleBot\LittleBot\obj\Debug\LittleBot.csprojResolveAssemblyReference.cache
+D:\PEV\LittleBot\DEV\LittleBot\LittleBot\bin\Debug\Newtonsoft.Json.dll
+D:\PEV\LittleBot\DEV\LittleBot\LittleBot\bin\Debug\Newtonsoft.Json.xml
